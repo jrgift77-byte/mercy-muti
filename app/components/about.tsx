@@ -27,7 +27,7 @@ export default function About() {
             <p>
               Hi, I&apos;m{" "}
               <span className="font-bold text-[#1C3F8C]">
-                Mercy Brenda Ndlovu
+                Mercy Brenda Muti
               </span>
               , a creative and motivated Graphic Designer passionate about
               creating visually appealing designs that communicate ideas clearly
