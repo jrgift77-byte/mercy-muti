@@ -1,12 +1,12 @@
 export default function Footer() {
-  const currentYear = new Date().getFullYear();
+  
 
   return (
     <footer className="w-full bg-[#1C3F8C] text-white">
       <div className="w-full max-w-6xl mx-auto px-5 sm:px-8 md:px-12 py-10 sm:py-12">
-        {/* Top Row: Brand, Navigation & Contact */}
+        
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-8 pb-8 border-b border-white/15">
-          {/* Brand Info */}
+         
           <div>
             <a
               href="#"
@@ -19,7 +19,7 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Quick Section Links */}
+         
           <nav
             aria-label="Footer Navigation"
             className="flex flex-wrap items-center gap-6 sm:gap-8 text-xs sm:text-sm font-semibold text-white/85"
@@ -41,7 +41,7 @@ export default function Footer() {
             </a>
           </nav>
 
-          {/* Direct Contact Actions */}
+          
           <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 sm:gap-6 text-xs sm:text-sm font-medium text-white/90">
             <a
               href="tel:+263784779134"
@@ -82,9 +82,9 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Bottom Row: Copyright & Back to Top */}
+       
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/70">
-          <p>&copy; {currentYear} Mercy Brenda Muti. All rights reserved.</p>
+          <p> Mercy Brenda Muti. All rights reserved.</p>
 
           <a
             href="#"
