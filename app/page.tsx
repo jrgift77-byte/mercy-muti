@@ -10,7 +10,7 @@ export default function Hero() {
         <div className="w-full max-w-6xl mx-auto px-5 sm:px-8 md:px-12 py-16 sm:py-24 md:py-28 flex flex-col items-center text-center">
           <span className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white border border-[#1C3F8C]/15 text-[11px] sm:text-xs font-bold uppercase tracking-widest text-[#1C3F8C] shadow-2xs mb-6">
             <span className="w-2 h-2 rounded-full bg-[#1C3F8C] animate-pulse" />
-            Mercy Brenda Ndlovu
+            Mercy Brenda Muti
           </span>
 
           <h1 className="text-4xl sm:text-6xl md:text-7xl font-black tracking-tight text-[#1C3F8C] uppercase leading-[1.05]">
